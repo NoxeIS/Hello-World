@@ -1,4 +1,4 @@
-# Linguagem Markdown - Git e GitHub - **Rômulo Criston**
+# Linguagem Markdown - Git e GitHub - **Igor Silva**
 
 # Título nível 1
 ## Título nível 2
@@ -102,4 +102,4 @@ inserir emojis (colocar dois-pontos e o nome do emoji - emojipedia.org)
 
 Marcar uma pessoa que tenha GitHub (Usar o arroba @)
 
-@romulocriston
+@NoxeIs
